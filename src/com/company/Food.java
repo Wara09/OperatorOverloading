@@ -24,5 +24,6 @@ public class Food {
     public void like(String like)
     {
         System.out.println(name+" is "+like);
+        System.out.println(name+" is "+like);
     }
 }
